@@ -1,4 +1,102 @@
 :root {
     --color-rubrum : #ff4342;
-    
+    font-family: 'MedievalSharp', cursive;
+}
+
+.top-container{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    cursor:url(papa1.cur),auto'
+}
+
+h1, h2, h3 {
+    font-family: 'MedievalSharp', ''
+}
+
+.cloud-wrapper{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border: #000000 solid;
+    text-align: center;
+}
+
+.cloud1{
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+.cloud2{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 10;
+    margin-bottom: 20%;
+}
+.cloud3{
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+}
+.mountain{
+
+}
+
+span {
+    text-decoration: underline;
+}
+
+/*.pope{
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 1%;
+}
+
+.skills{
+    text-align: center;
+}
+*/
+.profile{
+    padding-bottom: 3rem;
+}
+.middle-container{
+    margin: 0 auto;
+    border: #000000 solid;
+    text-align: center;
+}
+
+.profile img {
+    width:100px;
+    padding: 2rem 0;
+}
+
+.profile h2 {
+    font-size: 3rem;
+}
+
+.skills {
+    border: 2px solid green;
+}
+
+.skills h2{
+    font-size: 3rem;
+}
+
+.skills-crusading{
+    width: 150px;
+    float: left;
+    margin-right: 3rem;
+}
+
+.skills h3 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+.skills-row{
+    text-align: left;
+    margin-bottom: 2rem;
 }
