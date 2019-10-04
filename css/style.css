@@ -18,7 +18,7 @@ h1, h2, h3 {
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 5%;
-    border: #000000 solid;
+    /*border: #000000 solid;*/
     text-align: center;
 }
 
@@ -63,8 +63,8 @@ span {
     padding-bottom: 3rem;
 }
 .middle-container{
-    margin: 0 auto;
-    border: #000000 solid;
+    /*margin: 0 auto;
+    /*border: #000000 solid;*/
     text-align: center;
 }
 
@@ -78,7 +78,8 @@ span {
 }
 
 .skills {
-    border: 2px solid green;
+    /*border: 2px solid green;*/
+
 }
 
 .skills h2{
@@ -100,3 +101,51 @@ span {
     text-align: left;
     margin-bottom: 2rem;
 }
+
+.skills-raiding{
+    width: 70px;
+    float: right;
+    margin-right: 3rem;
+}
+.btn {
+    background: #fa8345;
+    background-image: -webkit-linear-gradient(top, #fa8345, #0f00ff);
+    background-image: -moz-linear-gradient(top, #fa8345, #0f00ff);
+    background-image: -ms-linear-gradient(top, #fa8345, #0f00ff);
+    background-image: -o-linear-gradient(top, #fa8345, #0f00ff);
+    background-image: linear-gradient(to bottom, #fa8345, #0f00ff);
+    -webkit-border-radius: 50;
+    -moz-border-radius: 50;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #eb1a1a;
+    background-image: -webkit-linear-gradient(top, #eb1a1a, #000000);
+    background-image: -moz-linear-gradient(top, #eb1a1a, #000000);
+    background-image: -ms-linear-gradient(top, #eb1a1a, #000000);
+    background-image: -o-linear-gradient(top, #eb1a1a, #000000);
+    background-image: linear-gradient(to bottom, #eb1a1a, #000000);
+    text-decoration: none;
+  }
+
+  a {
+      text-decoration: none;
+  }
+
+  .final-container{
+      background-color: #a10000
+  }
+
+  .footer-link{
+      color: rgb(255, 255, 10);
+  }
+
+  .contact-me{
+      margin-top: 3rem;
+      margin-bottom: 3rem;
+  }
